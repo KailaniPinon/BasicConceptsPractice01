@@ -1,0 +1,4 @@
+﻿  MainSource.cpp
+c:\users\kacheezy\desktop\pinonkailani_rpgpractice\pinonkailani_rpgpractice\mainsource.cpp(82): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\kacheezy\desktop\pinonkailani_rpgpractice\pinonkailani_rpgpractice\mainsource.cpp(82): warning C4804: '<': unsafe use of type 'bool' in operation
+  pinonKailani_rpgPractice.vcxproj -> C:\Users\Kacheezy\Desktop\pinonKailani_rpgPractice\Debug\pinonKailani_rpgPractice.exe
