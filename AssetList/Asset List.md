@@ -1,11 +1,9 @@
 ### Asset List - Furniture
 #### The listed items are large objects such as tables and seats. 
 
-<sub>
-.markdown-body table td{
-font-size: 8px !important; 
-} 
-</sub>
+<style>
+p{font-size: 8px !important;} 
+</style>
 
 STATUS | FURNITURE | INTERACTION | SPECIFICATIONS | APPOINTED MEMBERS
 ---|---------|-----------|-------------|------------------
