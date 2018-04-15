@@ -11,3 +11,4 @@ wip  | couch01 | none | 1.6m long * 0.7m tall * 1.05m deep ; floral blue print| 
 todo | couchThrowPillow01 | grip | 0.5m long * 0.5m tall * 0.1m deep ; white and crimison stripes; pick up and move pillows, fist | Team Member (M), Team Member (T), Team Member (P)
  | | | |
 
+**THIS IS THE END OF THE LIST**
