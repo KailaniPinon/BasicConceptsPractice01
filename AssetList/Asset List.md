@@ -2,11 +2,8 @@
 #### The listed items are large objects such as tables and seats. 
 
 ######
-[] FURNITURE | INTERACTION | SPECIFICATIONS | APPOINTED MEMBERS
+STATUS | FURNITURE | INTERACTION | SPECIFICATIONS | APPOINTED MEMBERS
 ------------------------------------------------------------------------------------------------------------------------
-[] objectType_object | yes/no | dimensions; | teammate (task*)
-                     | | appearance; | *tasks:  (M) model, (T) texture, (R) rigging,*
-                     | | behaviors | *(A) animation, (P) programming
-------------------------------------------------------------------------------------------------------------------------
-                   
-
+complete/wip/todo/? | objectType_object | yes/no | dimensions; | teammate (task*)
+x | x | appearance; | *tasks:  (M) model, (T) texture, (R) rigging,*
+x | x | behaviors | *(A) animation, (P) programming
