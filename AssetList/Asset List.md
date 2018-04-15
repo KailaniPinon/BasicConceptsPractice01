@@ -3,7 +3,7 @@
 
 ######
 STATUS | FURNITURE | INTERACTION | SPECIFICATIONS | APPOINTED MEMBERS
-------------------------------------------------------------------------------------------------------------------------
+-------|-----------|-------------|----------------|------------------
 complete/wip/todo/? | objectType_object | yes/no | dimensions; | teammate (task*)
 x | x | appearance; | *tasks:  (M) model, (T) texture, (R) rigging,*
 x | x | behaviors | *(A) animation, (P) programming
