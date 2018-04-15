@@ -1,13 +1,10 @@
 ### Asset List - Furniture
 #### The listed items are large objects such as tables and seats. 
 
-<sub>
-.markdown-preview.markdown-preview { p, ul, ol {font-size: 1.2em;} }
-</sub>
 
 
 STATUS | FURNITURE | INTERACTION | SPECIFICATIONS | APPOINTED MEMBERS
----|---------|-----------|-------------|------------------
+---|---|---|---|---
 complete / wip / todo / ? | objectType_object | yes/no | dimensions; appearance; behaviors| teammate (task*) * *tasks:  (M) model, (T) texture, (R) rigging, (A) animation, (P) programming*
  | EXAMPLES: | | |
 wip  | furniture_couch_01 | none | 1.6m long * 0.7m tall * 1.05m deep ; floral blue print| Team Member (M,T)
