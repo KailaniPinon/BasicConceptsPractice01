@@ -1,6 +1,6 @@
 ### Asset List - Furniture / Furnishings / Appliances / Structural Surfaces / Other / DerpDerp
 #### DESCRIPTION | MANAGED BY: Dominique
-
+ASSET LIST EXAMPLE - ASSET LIST EXAMPLE - ASSET LIST EXAMPLE - ASSET LIST EXAMPLE -ASSET LIST EXAMPLE
 STATUS | FURNITURE | INTERACTION | SPECIFICATIONS | APPOINTED MEMBERS
 ---|---|---|---|---
 done, wip, todo, scrap | object## | none, grip, poke, other | dimensions; appearance; behaviors| teammate (task*) * *tasks:  (M) model, (T) texture, (R) rigging, (A) animation, (P) programming*
